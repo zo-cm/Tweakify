@@ -83,7 +83,7 @@ echo.
 echo.
 echo 
 echo
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%
 echo.
 echo 
@@ -1074,7 +1074,7 @@ echo.
 echo.
 echo.
 echo 
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%%q%%t%
 echo.
 echo 
@@ -1219,7 +1219,7 @@ echo.
 echo.
 echo.
 echo 
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%%q%%t%
 echo.
 echo 
@@ -1441,7 +1441,7 @@ echo.
 echo.
 echo.
 echo 
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%%q%%t%
 echo.
 echo 
@@ -1854,7 +1854,7 @@ echo.
 echo.
 echo.
 echo 
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%%q%%t%
 echo.
 echo 
@@ -1887,7 +1887,7 @@ echo.
 echo.
 echo.
 echo 
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%%q%%t%
 echo.
 echo 
@@ -2111,7 +2111,7 @@ echo.
 echo.
 echo.
 echo 
-echo                                                   %c%Created By: cam%t%     
+echo                                                   %c%Created By: ancel_%t%     
 echo                                                      %c%%u%Version: %Version%%q%%t%
 echo.
 echo 
